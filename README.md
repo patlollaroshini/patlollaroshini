@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @patlollaroshini
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning flask,flutter
+- 📫 How to reach me patlollaroshini@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: not a procrastinator
